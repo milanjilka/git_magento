@@ -2,42 +2,42 @@
 # Magento Default Files    #
 #--------------------------#
 
-/app/etc/local.xml
+gittest/app/etc/local.xml
 
-/media/*
-!/media/.htaccess
+gittest/media/*
+!gittest/media/.htaccess
 
-!/media/customer
-/media/customer/*
-!/media/customer/.htaccess
+!gittest/media/customer
+gittest/media/customer/*
+!gittest/media/customer/.htaccess
 
-!/media/dhl
-/media/dhl/*
-!/media/dhl/logo.jpg
+!gittest/media/dhl
+gittest/media/dhl/*
+!gittest/media/dhl/logo.jpg
 
-!/media/downloadable
-/media/downloadable/*
-!/media/downloadable/.htaccess
+!gittest/media/downloadable
+gittest/media/downloadable/*
+!gittest/media/downloadable/.htaccess
 
-!/media/xmlconnect
-/media/xmlconnect/*
+!gittest/media/xmlconnect
+gittest/media/xmlconnect/*
 
-!/media/xmlconnect/custom
-/media/xmlconnect/custom/*
-!/media/xmlconnect/custom/ok.gif
+!gittest/media/xmlconnect/custom
+gittest/media/xmlconnect/custom/*
+!gittest/media/xmlconnect/custom/ok.gif
 
-!/media/xmlconnect/original
-/media/xmlconnect/original/*
-!/media/xmlconnect/original/ok.gif
+!gittest/media/xmlconnect/original
+gittest/media/xmlconnect/original/*
+!gittest/media/xmlconnect/original/ok.gif
 
-!/media/xmlconnect/system
-/media/xmlconnect/system/*
-!/media/xmlconnect/system/ok.gif
+!gittest/media/xmlconnect/system
+gittest/media/xmlconnect/system/*
+!gittest/media/xmlconnect/system/ok.gif
 
-/var/*
-!/var/.htaccess
+gittest/var/*
+!gittest/var/.htaccess
 
-!/var/package
-/var/package/*
-!/var/package/*.xml
+!gittest/var/package
+gittest/var/package/*
+!gittest/var/package/*.xml
 
